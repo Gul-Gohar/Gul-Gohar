@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Muhammad Gul zaman! 👋
 
 Welcome to my GitHub profile! I'm a passionate and versatile developer with expertise across multiple domains, including web development, mobile app development, backend systems, and AI. I love building impactful applications and constantly exploring new technologies. Here's a little about me:
 
@@ -47,15 +47,15 @@ Welcome to my GitHub profile! I'm a passionate and versatile developer with expe
 
 ## 📂 Featured Projects
 
-### 1. **[Project Name]**
-- **Description**: Brief description of the project.
-- **Tech Stack**: Tools and technologies used.
+### 1. **[Medicine Price and info]**
+- **Description**: Upto date and latest drugs prices and concise detail.
+- **Tech Stack**: built using react native.
 - **Live Demo**: [Link to demo or site](#)
 - **Code**: [GitHub Repository](#)
 
-### 2. **[Project Name]**
-- **Description**: Brief description of the project.
-- **Tech Stack**: Tools and technologies used.
+### 2. **[pakdrugprice webapp]**
+- **Description**: a fully offline webapp for giving prices of medicine.
+- **Tech Stack**: javascript and wasm.
 - **Live Demo**: [Link to demo or site](#)
 - **Code**: [GitHub Repository](#)
 
@@ -69,9 +69,9 @@ Welcome to my GitHub profile! I'm a passionate and versatile developer with expe
 
 ## 📈 GitHub Stats
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gul-Gohar&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gul-Gohar&layout=compact&theme=radical)
 
 ---
 
@@ -79,7 +79,7 @@ Welcome to my GitHub profile! I'm a passionate and versatile developer with expe
 
 - **Portfolio**: [Your Portfolio Website](#)
 - **LinkedIn**: [Your LinkedIn Profile](#)
-- **Email**: [Your Email Address](mailto:your.email@example.com)
+- **Email**: [Your Email Address](pro.dev.solution.pk@gmail.com)
 - **Twitter**: [Your Twitter Profile](#)
 
 ---
